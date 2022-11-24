@@ -1,0 +1,10 @@
+// .NET --- RID Types
+#include "src/Rid/MethodRid.c"
+#include "src/Rid/FieldRid.c"
+#include "src/Rid/ParamRid.c"
+#include "src/Rid/TypeDefRid.c"
+#include "src/Rid/EventRid.c"
+#include "src/Rid/PropertyRid.c"
+#include "src/Rid/ModuleRefRid.c"
+#include "src/Rid/AssemblyRefRid.c"
+#include "src/Rid/GenericParamRid.c"
